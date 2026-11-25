@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Lab L1 · 67125740')),
+      appBar: AppBar(title: const Text('Lab L1 done · 67125740')),
       body: Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
